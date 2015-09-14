@@ -1,0 +1,55 @@
+body{
+	background-color: hsla(0,0%,0%,.25);
+	margin: 0;
+}
+div{
+	background-color: hsla(0, 0%, 100%, 1);
+	width: 80vw;
+	height: 80vw ;
+	margin: 30px auto;
+	position: relative;
+	
+}
+div::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+img{
+	width: 20%;
+	height: auto;
+	//float: right;
+	position: absolute;
+	left: 0;
+	top: 0;
+	
+}
+#cat-1{
+	top:0;
+	left:10%;
+}
+#cat-2{
+	right: 0;
+	left: auto;
+	top:auto;
+	bottom:0;
+}
+#cat-3{
+	top:auto;
+	left: 0;
+	bottom:0;
+}
+#cat-4{
+	top:0;
+	left:20%;
+}
+#cat-5{
+	top:0;
+	left:40%;
+}
+#cat-6{
+	right: 0;
+	left: 40%;
+	top:auto;
+	bottom:0;
+}

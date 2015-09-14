@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>TemplateMonster Project</title>
+	<link rel="stylesheet" href="css/styles.css">
+	
+	
+
+</head>
+<body>
+	<header>
+		<ul id="utilNav"><!--black bar at top-->
+			<li><i class="fa fa-map-marker"></i>  4578 Marmora Rd, Glasgow D04 89GR</li>
+			<li><i class="fa fa-mobile"></i>  800-2345-6789</li>
+			<li><i class="fa fa-envelope"></i>  info@demolink.org</li>
+			<li><i class="fa fa-twitter"></i></li>
+			<li><i class="fa fa-facebook"></i></li>
+		</ul>
+
+		<section>
+			<ul id="topnav"><!--color bar at top-->
+				<li><a href="#" class="brand"></a></li>
+				<li><a href="">Home</a></li>
+				<li><a href="">About</a></li>
+				<li><a href="">Portfolio</a></li>
+				<li><a href="">Blog</a></li>
+				<li><a href="">Contacts</a></li>
+			</ul>
+		</section>
+	</header>
+
+	<div id="hero">
+		<img src="img/slider-img1.jpg">
+		<h1>Creating</h1>
+		<h3>something good for you</h3>
+
+
+	</div>
+
+
+
+</body>
+</html>

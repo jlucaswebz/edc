@@ -1,0 +1,55 @@
+.areU{
+			vertical-align: top;
+			display: block;
+			width: 100%;
+			box-sizing: border-box;
+			border: 1px solid $headBlue;
+			height: auto;
+
+	
+}
+section:last-of-type{
+	vertical-align: top;
+	display: block;
+	width: 100%;
+	box-sizing: border-box;
+	border: 2px solid #e5e5e5;
+	height: auto;
+
+
+	div{
+			width: 100%;
+			h2{
+				width: 25%;
+				float: left;
+			}
+			p{
+				width: 75%;
+				padding-left: 30px;
+				float: right;
+			}
+		}
+}
+footer{
+	&::before, &::after {
+            @extend %clearfix;
+           }
+	#social{
+		width: 100%;
+		p{
+			float: left;
+		}	
+		ul{
+
+			li{
+				float: right;
+				width: 33.3333%;
+				color: $letGrey;
+				list-style: none;
+				padding: 0;
+				line-height: 1.5;
+			}
+		}
+    }
+}
+

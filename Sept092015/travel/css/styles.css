@@ -1,0 +1,31 @@
+body{
+	background-color: #fff;
+	font-family: "Helvetica Neue", Helvetica, Arial, Sans-serif;
+	margin: 60px 20px 150px;
+}
+img{
+	box-sizing:border-box;
+	width: 10%;
+	height: auto;
+	margin: 25px 10px;
+	padding: 5px;
+}
+icons{
+	box-sizing:border-box;
+	width: 100%;
+	height: auto;
+	margin: 25px 10px;
+	padding: 5px;
+
+	.socialMenu{
+		width: 300%;
+		ul{
+			width: 30%;
+			li{
+				width: 25%;
+
+			}
+		}
+	}
+}
+

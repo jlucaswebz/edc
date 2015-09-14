@@ -1,0 +1,55 @@
+body{
+
+	background-color: black;
+
+}
+
+#header{
+	position: relative;
+	
+	.container{
+		position: relative;
+		width: 1200px;
+		
+
+	.logo{
+		position: absolute;
+		left: 0;
+		top: 4.5em;
+		text-decoration: none;
+
+		h1{
+			position: absolute;
+			color: #fff;
+			display: block;
+			font-weight: 600;
+			text-decoration: none;
+
+			}
+		}
+	.nav{
+			position: absolute;
+			right: 0;
+			top: 5em;
+			display: block;
+
+			ul{
+				list-style: none;
+				color:white;
+				font-size: 40px;
+				margin-left: 60%; 
+				text-align: center;
+				background-color: #56c9d6;
+				text-decoration: none;
+				
+				li{
+
+					}
+				}
+			}
+	   }
+
+	}
+
+}
+

@@ -1,0 +1,43 @@
+body{
+	margin:0;
+}
+header{
+	background-color: #af1641;
+	color: rgba(255, 255, 255, .8);
+	text-align: center;
+}
+nav{
+	background-color: #af1641;
+	color: white;
+	padding:10px; 
+}
+nav h1{
+	width: 150x;
+	margin:0 auto;
+}
+nav ul{
+	width: 400px;
+	margin: 0 auto;
+
+}
+nav li{
+	display: inline-block;
+}
+h1{
+
+}
+h2{
+
+}
+section{
+
+}
+section h1{
+
+}
+section.flower{
+
+}
+section.col-3{
+
+}

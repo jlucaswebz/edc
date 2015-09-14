@@ -1,0 +1,10 @@
+Icons:
+<a class="facebook" href="#"><i class="fa fa-facebook-square"></i>Facebook</a>
+<a class="twitter" href="#"><i class="fa fa-twitter-square"></i>Twitter</a>
+<a class="google" href="#"><i class="fa fa-google-square"></i>Google+</a>
+<a class="pinterest" href=#"><i class="fa fa-pinterest-square"></i>Pinterest</a>
+<a class="linkedin" href=#"><i class="fa fa-linkedin-square"></i>LinkedIn</a>
+<a class="instagram" href=#"><i class="fa fa-instagram-square"></i>Instagram</a>
+
+
+
